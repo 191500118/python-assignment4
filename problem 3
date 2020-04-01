@@ -1,0 +1,6 @@
+L=list(map(str,input().split()))
+D={}
+for i in L:
+    if i[0:len(s)]==s:
+        d[i]=0
+print(list(D.keys()))
